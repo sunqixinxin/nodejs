@@ -1,0 +1,13 @@
+node_modules/
+
+.idea
+npm-debug.log
+
+# logs
+result/
+logs/
+
+# My
+encryptinfo.txt
+
+/encrypter/*[^_encrypt]$
