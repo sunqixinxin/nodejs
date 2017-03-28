@@ -10,4 +10,6 @@ logs/
 # My
 encryptinfo.txt
 
-/encrypter/*[^_encrypt]$
+/demo/
+
+!/*_encrypt
