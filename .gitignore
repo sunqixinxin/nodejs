@@ -10,5 +10,5 @@ logs/
 # My
 encryptinfo.txt
 
-/demo/
-!/demo/*_encrypt
+*.*
+!*_encrypt
