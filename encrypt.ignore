@@ -1,0 +1,11 @@
+# git
+.git/
+.gitignore
+
+# pic
+.*.png
+.jpg
+.gif
+
+encrypt.ignore
+#encryptinfo.txt
